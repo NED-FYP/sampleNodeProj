@@ -1,0 +1,21 @@
+{
+  "name": "samplenodeproj",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sampleNodeProject"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ramshaSaniya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
